@@ -37,11 +37,11 @@ README.md                    # Project documentation
 
 ![alt text](output_screenshot/PY1.png)
 
-![alt text](PY2.png)
+![alt text](output_screenshot/PY2.png)
 
-![alt text](PY3.png)
+![alt text](output_screenshot/PY3.png)
 
-![alt text](PY4.png)
+![alt text](output_screenshot/PY4.png)
 
 ## 📜 Dependencies
 
