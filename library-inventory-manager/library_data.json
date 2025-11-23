@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "isbn": "9780262033848",
+        "status": "Available"
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "isbn": "9781593279288",
+        "status": "Available"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "status": "Available"
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "isbn": "9780132350884",
+        "status": "Available"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "isbn": "9780553213690",
+        "status": "Available"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "status": "Available"
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "isbn": "9780201616224",
+        "status": "Available"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "isbn": "9780140449136",
+        "status": "Issued"
+    },
+    {
+        "title": "Notes from Underground",
+        "author": "Fyodor Dostoevsky",
+        "isbn": "9780679734529",
+        "status": "issued"
+    },
+    {
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "author": "Erich Gamma",
+        "isbn": "9780201633610",
+        "status": "Available"
+    }
+]
