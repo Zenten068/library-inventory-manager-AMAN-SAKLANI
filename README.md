@@ -33,7 +33,7 @@ output_screenshot/           # screenshots of ouput in CLI
 README.md                    # Project documentation
 ```
 
-🖥️ Output Example (Screenshot)
+## 🖥️ Output Example (Screenshot)
 
 ![alt text](output_screenshot/PY1.png)
 
