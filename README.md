@@ -35,13 +35,13 @@ README.md                    # Project documentation
 
 🖥️ Output Example (Screenshot)
 
-[!PY1.png]
+![alt text](PY1.png)
 
-[!PY2.png]
+![alt text](PY2.png)
 
-[!PY3.png]
+![alt text](PY3.png)
 
-[!PY4.png]
+![alt text](PY4.png)
 
 ## 📜 Dependencies
 
