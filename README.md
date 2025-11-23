@@ -35,7 +35,7 @@ README.md                    # Project documentation
 
 🖥️ Output Example (Screenshot)
 
-![alt text](PY1.png)
+![alt text](output_screenshot/PY1.png)
 
 ![alt text](PY2.png)
 
